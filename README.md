@@ -15,3 +15,6 @@ The dataset comprises of mix of numerical and text columns.
 - Outlines 10 likes/dislikes about company
 - Ratings across job families
 - 5 suggestions to improve engagement.
+
+# Contact
+Thank you for visiting my repository! If you have any questions or suggestions, you can reach me at namratanandy3@gmail.com or text me on LinkedIn: (https://www.linkedin.com/in/namratanandy/).
